@@ -1,7 +1,9 @@
 div{
     border: 2px dashed blue;
 }
-
+nav{
+    border: 2px dashed blue;
+}
 
 .cardimg{
     height: 100px;
