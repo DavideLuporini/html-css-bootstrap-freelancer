@@ -4,7 +4,10 @@ div{
 nav{
     border: 2px dashed blue;
 }
-
+footer{
+    border: 2px dashed black;
+}
 .cardimg{
     height: 100px;
+    border: 2px dashed yellow;
 }
