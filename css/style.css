@@ -1,7 +1,6 @@
-
+/* structure */
 
 footer{
-    border: 2px dashed black;
     height: 100px;
 }
 .cardimg{
@@ -9,11 +8,15 @@ footer{
     border: 2px dashed yellow;
 }
 
+/* colors */
 .bgc-blue{
  background-color: #2c3e50;
 }
 .bgc-black{
  background-color: #2c3e50;
+}
+.bgc-quiteblack{
+ background-color: #3a546d;
 }
 .bgc-green{
  background-color: #1abc9c;
