@@ -11,3 +11,11 @@ footer{
     height: 100px;
     border: 2px dashed yellow;
 }
+
+.container-fluid:first-of-type{
+    border: purple 4px solid;
+}
+
+.bgc-blue{
+ background-color: #2c3e50;
+}
