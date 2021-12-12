@@ -40,3 +40,47 @@ footer{
     border: 1px solid white;
     color: white;
 }
+
+/* form */
+
+::placeholder{
+    color: black;
+    opacity: 0.9; 
+  }
+  input {
+    width: 100%;
+  }
+  input.bgc-green{
+    width: 20%;
+  }
+
+  form{
+      flex-basis: 350px;
+  }
+
+  input[type^=text] {
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid darkgray;
+  }
+  input[type=submit] {
+    padding: 5px 5px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid darkgray;
+    border-radius: 10px;
+    color: white;
+  }
+  input[type=text-area] {
+    padding: 0;
+    height: 150px;
+    flex-basis: 100%;
+  }
+
+  /* contacts */
+  .rounded-circle {
+    border: 2px solid white;
+    padding: 2px 5px;
+    margin: 0px 20px;
+}
